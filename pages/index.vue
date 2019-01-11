@@ -3,10 +3,10 @@
     <div>
       <app-logo/>
       <h1 class="title">
-        これがうまくいくと良いな
+        pwa
       </h1>
       <h2 class="subtitle">
-        Nuxt.js project
+        これがうまくいくと良いな
       </h2>
       <div class="links">
         <a
