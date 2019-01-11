@@ -1,4 +1,4 @@
-importScripts('/_nuxt/workbox.4c4f5ca6.js')
+importScripts('/_nuxt/workbox.dev.4c4f5ca6.js')
 
 workbox.precaching.precacheAndRoute([
   {
