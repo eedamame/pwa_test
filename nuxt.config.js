@@ -40,6 +40,10 @@ module.exports = {
   ],
   workbox: {
     dev: true, //開発環境でもPWAできるように
-  }
+  },
+  manifest: {
+    name: 'sample nuxt pwa',
+    lang: 'ja'
+  },
 }
 
