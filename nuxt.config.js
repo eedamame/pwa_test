@@ -42,6 +42,9 @@ module.exports = {
     name: 'sample nuxt pwa',
     lang: 'ja'
   },
+  router: {
+    base: '/pwa_test/'
+  }
   //workbox: {
   //  dev: true, //開発環境でもPWAできるように
   //},
