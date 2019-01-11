@@ -2,8 +2,8 @@ importScripts('/_nuxt/workbox.dev.4c4f5ca6.js')
 
 workbox.precaching.precacheAndRoute([
   {
-    "url": "/_nuxt/2a537e71713a677826fb.js",
-    "revision": "f7a3a73bbcce617a0cc5a5aca6cca876"
+    "url": "/_nuxt/3b10f0a4a28885f7781d.js",
+    "revision": "808e522d15f78cb8ff7078fe3134f3b6"
   },
   {
     "url": "/_nuxt/79d760be3ee3db459fc3.js",
@@ -14,8 +14,8 @@ workbox.precaching.precacheAndRoute([
     "revision": "44a80d37f24838fcb67204e34dd4f7e0"
   },
   {
-    "url": "/_nuxt/ceea056b6864435ba7f8.js",
-    "revision": "e2bf4018132037e87fb6c8673094481d"
+    "url": "/_nuxt/abbb101c0f8ba5f9e60d.js",
+    "revision": "822d8ddbe2a28813dbac88d12f76f079"
   }
 ], {
   "cacheId": "pwa_test",
